@@ -1,0 +1,22 @@
+.nav1 {
+    background-color: #6e97d8;
+    height: 55px;
+    padding-top: 22px;
+}
+.nav1h1 {
+    color: white;
+    border: 3px solid black;
+    padding: 0;
+    margin: 0;
+    display: inline;
+}
+.nav1ul {
+    position: relative;
+    display: inline;
+    margin: 0 auto;
+}
+.nav1ulli {
+    display: inline;
+    padding-right: 15px;
+    margin-bottom: 10px;
+}
